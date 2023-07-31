@@ -1,0 +1,144 @@
+{
+  "users": [
+    {
+      "email": "david@text.com",
+      "name": "david",
+      "password": "david@123",
+      "id": 1
+    },
+    {
+      "email": "dave@text.com",
+      "password": "dave@123",
+      "name": "dave",
+      "id": 2
+    },
+    {
+      "email": "dave@text.com",
+      "password": "dave@123",
+      "name": "dave",
+      "id": 3
+    },
+    {
+      "email": "dave@text.com",
+      "password": "dave@123",
+      "name": "dave",
+      "id": 4
+    },
+    {
+      "email": "a@text.com",
+      "password": "12345678",
+      "name": "",
+      "id": 5
+    },
+    {
+      "email": "a@text.com",
+      "password": "12345678",
+      "name": "john",
+      "id": 6
+    },
+    {
+      "email": "a@text.com",
+      "password": "12345678",
+      "name": "dave",
+      "id": 7
+    },
+    {
+      "email": "a@text.com",
+      "password": "12345678",
+      "name": "dave",
+      "id": 8
+    },
+    {
+      "email": "a@text.com",
+      "password": "12345678",
+      "name": "dave",
+      "id": 9
+    },
+    {
+      "email": "a@text.com",
+      "password": "12345678",
+      "name": "fdsa",
+      "id": 10
+    },
+    {
+      "email": "a@text.com",
+      "password": "12345678",
+      "name": "hgfdfghj",
+      "id": 11
+    },
+    {
+      "email": "ahgfd@text.com",
+      "password": "ertyui",
+      "name": "jhgfds",
+      "id": 12
+    },
+    {
+      "email": "a@text.com",
+      "password": "12345678",
+      "name": "jhgf",
+      "id": 13
+    },
+    {
+      "email": "a@text.com",
+      "password": "12345678",
+      "name": "lkjhgfddcfg",
+      "id": 14
+    },
+    {
+      "email": "a@text.com",
+      "password": "12345678",
+      "name": "David",
+      "id": 15
+    },
+    {
+      "email": "a@text.com",
+      "password": "12345678",
+      "name": "David",
+      "id": 16
+    },
+    {
+      "email": "a@text.com",
+      "password": "12345678",
+      "name": "Sam",
+      "id": 17
+    },
+    {
+      "email": "a@text.com",
+      "password": "12345678",
+      "name": "Dave",
+      "id": 18
+    },
+    {
+      "email": "a@text.com",
+      "password": "098765",
+      "name": "Dave",
+      "id": 19
+    },
+    {
+      "email": "a@text.com",
+      "password": "12345678",
+      "name": "David",
+      "id": 20
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Free Fire",
+      "address": "Middle East Server ijebu ode",
+      "contact": "09021456689",
+      "id": 1
+    },
+    {
+      "name": "David",
+      "address": "norway",
+      "contact": "09021456689",
+      "id": 2
+    },
+    {
+      "name": "Bisola",
+      "address": "ijebu ife",
+      "contact": "08130726225",
+      "id": 3
+    }
+  ]
+}
